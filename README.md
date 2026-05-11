@@ -1,7 +1,7 @@
 # StarCursor
 
 
-
+ # English
 Eng: 🌟 StarCursor
 Want to change your cursor from a static PNG to an animated GIF? 🖱️✨ Here is your app, and it’s completely free! 🎁
 ⚠️ Important Note:
@@ -17,7 +17,7 @@ Don't worry, your cursors won't be leaked! This is a fully offline tool, not an 
 
 
 
-
+# Russian
 Rus:
 🌟 StarCursor
 Хочешь изменить свой обычный курсор (PNG) на анимированный (GIF)? 🖱️✨ Вот твое приложение, и оно абсолютно бесплатное! 🎁
